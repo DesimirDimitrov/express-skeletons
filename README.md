@@ -1,4 +1,4 @@
-# nodejs-skeletons
+# Express-skeletons
 
 Basic skeletons for simple apps (including some legacy)
 
