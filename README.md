@@ -29,3 +29,9 @@ npm install axios
 ```sh
 npm init @eslint/config
 ```
+
+```sh
+npm install typescript --save-dev
+tsc --init
+npm install ts-node --save-dev   for no compillation
+```
